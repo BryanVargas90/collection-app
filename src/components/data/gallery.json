@@ -1,0 +1,50 @@
+[
+    { "id": 1,
+      "game":"Raimbow Six Siege",
+      "genre":"Action",
+      "platform":"Console, Pc",
+      "online":true,
+      "cover":"https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_616x353.jpg?t=1680010421"
+  
+    },
+    { "id": 2,
+      "game":"Apex Legends",
+      "genre":"Action",
+      "platform":"Console, Pc",
+      "online":true,
+      "cover":"https://media.contentapi.ea.com/content/dam/apex-legends/images/2019/01/apex-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg"
+  
+    },
+    { "id": 3,
+      "game":"Call of Duty",
+      "genre":"Shooter",
+      "platform":"Console, Pc",
+      "online": true,
+      "cover":"https://imgs.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw2/meta-images/reveal/mw2-reveal-meta-share.jpg"
+  
+    },
+    { "id": 4,
+      "game":"God of War",
+      "genre":"Adventure",
+      "platform":"Console",
+      "online": false,
+      "cover":"https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png"
+  
+    },
+  
+    { "id": 5,
+      "game":"Star Wars: Surivor",
+      "genre":"Adventure",
+      "platform":"Console, Pc",
+      "online":false,
+      "cover": "https://media.contentapi.ea.com/content/dam/ea/starwars/star-wars-jedi-survivor/common/swj-survivor-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg"
+  
+    }
+  
+  
+  
+  
+  
+  
+  
+  ]
